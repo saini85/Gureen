@@ -13,13 +13,13 @@ public class Student {
     
     private String name;
     private int sID;
-
+    private nt hi;
     /**
      * Get the value of sID
      *
      * @return the value of sID
      */
-    public int getsID(int hi) {
+    public int getsID() {
         return sID;
     }
 
