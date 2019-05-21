@@ -19,7 +19,7 @@ public class Student {
      *
      * @return the value of sID
      */
-    public int getsID() {
+    public int getsID(int hi) {
         return sID;
     }
 
